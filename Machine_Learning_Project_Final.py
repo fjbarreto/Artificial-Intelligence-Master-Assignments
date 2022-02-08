@@ -1,6 +1,8 @@
-####RETO KAGGLE: House Prices Advanced Regression Techniques####
-##Frank Barreto. A905386.##
-##Machine Learning. Master de Inteligencia Artificial##
+####KAGGLE Competition: House Prices Advanced Regression Techniques
+##Frank Barreto.
+##08/11/2021
+##Machine Learning. 
+##Artificial Intelligence Master
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
