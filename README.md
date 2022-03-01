@@ -1,9 +1,9 @@
 # Frank J Barreto Rothaug Portfolio
 This repository contains the following projects:
 
-- Automatic Steel Defects classification and localization with deep learning/br
-         Objectives:
-           - Preprocessing of images and data augmentation
+- Automatic Steel Defects classification and localization with deep learning<br />
+         Objectives:<br />
+           - Preprocessing of images and data augmentation<br />
            - Exploration of different convolutional neural network architectures to increase the classifier's accuracy 
            - Implementation of transfer learning for classification and localization of metallic surface defect
            - Using google cloud Vertex AI to train neural networks
