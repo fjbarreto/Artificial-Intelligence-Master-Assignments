@@ -1,4 +1,4 @@
-# Frank J Barreto Rothaug Portfolio
+# Artificial Intelligence Masters Assignments
 This repository contains the following projects:
 
 - Automatic Steel Defects classification and localization with deep learning<br /><br />
