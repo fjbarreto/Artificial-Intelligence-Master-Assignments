@@ -1,4 +1,4 @@
-# Master's Artificial Intelligence Assignments
+# Master Degree in Artificial Intelligence Assignments
 This repository contains the following projects:
 
 - Automatic Steel Defects classification and localization with deep learning<br /><br />
